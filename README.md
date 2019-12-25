@@ -1,4 +1,5 @@
 # Arqiver
+For backup purpose.
 
 ## Overview
 
